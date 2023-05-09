@@ -1,1 +1,3 @@
-# Cred-Card-Form
+# Credit-Card-Form
+
+O código apresentado é um formulário de cartão de crédito em HTML, CSS e Vue.js como um framework JavaScript. Ele inclui recursos como animações e transições para criar uma experiência de usuário mais atraente. O formulário exibe uma imagem do cartão, bem como o número do cartão, o nome do titular do cartão, a data de validade e o código de segurança. Ele também inclui validação de entrada para garantir que os dados inseridos sejam válidos antes de serem enviados. O formulário é responsivo e se ajusta a diferentes tamanhos de tela. 
